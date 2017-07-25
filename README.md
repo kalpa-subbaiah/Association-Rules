@@ -1,6 +1,6 @@
 # A-Rules
 
-**Due Date: 05-08-2017 **
+**Due Date:05-08-2017**
 
 Follow the instructions as specified in the Rmd file.
 
